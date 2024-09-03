@@ -22,6 +22,8 @@
     <li>Improving Cyber Security for Churches using simple and robust CRM solutions</li>
   </ul>
 </p>
+
+## I am willing to work with other developers and those who want to get started in web development!
 <!--
 **Mikekellydev/Mikekellydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
