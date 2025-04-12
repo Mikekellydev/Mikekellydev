@@ -83,7 +83,7 @@ I bring more than just technical knowledge — I bring commitment.
 ## 📫 Let’s Connect
 
 - 🌍 Website: [mikekellydev.com](https://mikekellydev.com)  
-- 💼 LinkedIn: [linkedin.com/in/mikekellydev](https://linkedin.com/in/mikekellydev)  
-- 📡 Ham Profile: [QRZ Lookup](https://www.qrz.com/) *(add your direct QRZ link if you'd like)*  
+- 💼 LinkedIn: [linkedin.com/in/michaeldavidkelly](https://www.linkedin.com/in/michaeldavidkelly/)  
+- 📡 Ham Profile: [QRZ Lookup](https://www.qrz.com/db/wx9nws) *(add your direct QRZ link if you'd like)*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mikekellydev&style=flat-square&color=blue)
