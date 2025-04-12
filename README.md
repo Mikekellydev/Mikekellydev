@@ -2,6 +2,10 @@
 
 🚀 **Managed Cloud Service Provider** | 💻 **Web Developer** | 📡 **Ham Radio Enthusiast**
 
+![Profile Views](https://komarev.com/ghpvc/?username=mikekellydev&style=flat-square&color=blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikekellydev&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikekellydev&show_icons=true&theme=default)
+
 ---
 
 ## 🌐 What I Do
@@ -28,8 +32,7 @@ Here are a few of my pinned repositories that showcase my skills and what I’m 
 
 - 🌐 [**sparkwaveitservice**](https://github.com/mikekellydev/sparkwaveitservice)  
   A fully developed website for SparkWave IT Services — professional design, responsive layout, and clean front-end code.  
-  🔗 [Visit Repository Site](https://mikekellydev.github.io/sparkwaveitservice/)
-  🔗 [Visit Live Site](https://sparkwaveitservice.com)
+  🔗 [Visit Live Site](https://mikekellydev.github.io/sparkwaveitservice/)
 
 - 📡 [**skywarn-spotter-dashboard**](https://github.com/mikekellydev/skywarn-spotter-dashboard)  
   A dashboard for real-time emergency weather updates and APRS data integration.
@@ -79,7 +82,8 @@ I bring more than just technical knowledge — I bring commitment.
 ---
 
 ## 📫 Let’s Connect
-
+*
 - 🌍 Website: [mikekellydev.com](https://mikekellydev.com)  
 - 💼 LinkedIn: [linkedin.com/in/mikekellydev](https://linkedin.com/in/mikekellydev)  
 - 📡 Ham Profile: [QRZ Lookup](https://www.qrz.com/) *(add your direct QRZ link if you'd like)*  
+*
