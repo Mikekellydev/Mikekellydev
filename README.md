@@ -28,7 +28,8 @@ Here are a few of my pinned repositories that showcase my skills and what I’m 
 
 - 🌐 [**sparkwaveitservice**](https://github.com/mikekellydev/sparkwaveitservice)  
   A fully developed website for SparkWave IT Services — professional design, responsive layout, and clean front-end code.  
-  🔗 [Visit Live Site](https://mikekellydev.github.io/sparkwaveitservice/)
+  🔗 [Visit Repository Site](https://mikekellydev.github.io/sparkwaveitservice/)
+  🔗 [Visit Live Site](https://sparkwaveitservice.com)
 
 - 📡 [**skywarn-spotter-dashboard**](https://github.com/mikekellydev/skywarn-spotter-dashboard)  
   A dashboard for real-time emergency weather updates and APRS data integration.
