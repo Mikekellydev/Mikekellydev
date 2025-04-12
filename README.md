@@ -1,32 +1,84 @@
-<h1 align="center">Hi 👋, I'm Michael Kelly</h1>
-<h3 align="center">I am a Web Developer and a Ham Radio Enthusiast known as WeatherHam</h3>
+# 👋 Hi, I'm Mike Kelly
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikekellydev&label=Profile%20views&color=0e75b6&style=flat" alt="mikekellydev" /> </p>
+🚀 **Managed Cloud Service Provider** | 💻 **Web Developer** | 📡 **Ham Radio Enthusiast**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikekellydev" alt="mikekellydev" /></a> </p>
+---
 
-- 🔭 I’m currently working on [WX9NWS Weather Page](https://mikekellydev.github.io/WX9NWS/)
+## 🌐 What I Do
 
-- 🌱 I’m currently learning **Frontend Frameworks**
+As a **Managed Cloud Service Provider**, I help businesses and teams succeed in the cloud. I specialize in:
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mikekellydev](https://github.com/Mikekellydev)
+- 🛠️ **Cloud Infrastructure Management**  
+  AWS, Azure, and DigitalOcean environments — optimized for performance, security, and scalability.
 
-- 📫 How to reach me **mikekellydev@gmail.com**
+- 🔒 **Security & Monitoring**  
+  Setting up logging, alerting, backups, and zero-downtime deployments.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@mikekellydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mikekellydev" height="30" width="40" /></a>
-<a href="https://twitter.com/mikekellyonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikekellyonline" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/michaeldavidkelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaeldavidkelly" height="30" width="40" /></a>
-<a href="https://fb.com/michaelkellycoaching" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michaelkellycoaching" height="30" width="40" /></a>
-<a href="https://instagram.com/michaelkellycoaching" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michaelkellycoaching" height="30" width="40" /></a>
-</p>
+- 📦 **DevOps & CI/CD Pipelines**  
+  Automating deployments, version control workflows, and maintaining best practices.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🖥️ **Web Development**  
+  Building responsive, fast-loading web apps with HTML, CSS, JavaScript, React, and backend support when needed.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikekellydev&show_icons=true&locale=en&layout=compact" alt="mikekellydev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikekellydev&show_icons=true&locale=en" alt="mikekellydev" /></p>
+## 📌 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikekellydev&" alt="mikekellydev" /></p>
+Here are a few of my pinned repositories that showcase my skills and what I’m passionate about:
+
+- 🌐 [**sparkwaveitservice**](https://github.com/mikekellydev/sparkwaveitservice)  
+  A fully developed website for SparkWave IT Services — professional design, responsive layout, and clean front-end code.  
+  🔗 [Visit Live Site](https://mikekellydev.github.io/sparkwaveitservice/)
+
+- 📡 [**skywarn-spotter-dashboard**](https://github.com/mikekellydev/skywarn-spotter-dashboard)  
+  A dashboard for real-time emergency weather updates and APRS data integration.
+
+- ⛅ [**weather-station**](https://github.com/mikekellydev/weather-station)  
+  Web app for local weather station data, built for ham radio & SKYWARN use.
+
+- 🖋️ [**html-email-template-demo**](https://github.com/mikekellydev/html-email-template-demo)  
+  Clean, responsive HTML email templates for marketing or transactional emails.
+
+> ⚡ Visit [github.com/mikekellydev](https://github.com/mikekellydev) to explore more!
+
+---
+
+## 📡 About My Ham Radio Side
+
+Outside of tech, I’m a licensed **Ham Radio Operator** — call sign: **[Your Call Sign Here]**  
+Whether tracking storms or supporting emergency communications, I enjoy combining technology with community service.
+
+- 📻 Skywarn Spotter  
+- 🌪️ Emergency Communication Volunteer  
+- 🛰️ Exploring APRS, NOAA feeds, and ham digital modes  
+
+---
+
+## 💼 Why Employers Work With Me
+
+I bring more than just technical knowledge — I bring commitment.  
+✅ I manage client projects like they're mission-critical.  
+✅ I write clean code and secure infrastructure.  
+✅ I value communication, documentation, and collaboration.  
+✅ I'm always learning — always shipping.
+
+> 💡 _“I believe in building things that last, serve others, and make an impact.”_
+
+---
+
+## 🧰 Tools & Tech Stack
+
+**Cloud**: AWS | Azure | DigitalOcean  
+**Frontend**: HTML | CSS | JavaScript | React  
+**Backend**: Node.js | Express | REST APIs  
+**DevOps**: GitHub Actions | Docker | Bash | NGINX  
+**Monitoring**: UptimeRobot | Logtail | Grafana  
+**Other**: Git | Linux | VS Code
+
+---
+
+## 📫 Let’s Connect
+
+- 🌍 Website: [mikekellydev.com](https://mikekellydev.com)  
+- 💼 LinkedIn: [linkedin.com/in/mikekellydev](https://linkedin.com/in/mikekellydev)  
+- 📡 Ham Profile: [QRZ Lookup](https://www.qrz.com/) *(add your direct QRZ link if you'd like)*  
