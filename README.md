@@ -2,7 +2,6 @@
 
 🚀 **Managed Cloud Service Provider** | 💻 **Web Developer** | 📡 **Ham Radio Enthusiast**
 
-![Profile Views](https://komarev.com/ghpvc/?username=mikekellydev&style=flat-square&color=blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikekellydev&layout=compact&theme=default)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikekellydev&show_icons=true&theme=default)
 
