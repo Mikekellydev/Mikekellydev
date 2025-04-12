@@ -82,8 +82,8 @@ I bring more than just technical knowledge — I bring commitment.
 ---
 
 ## 📫 Let’s Connect
-*
+
 - 🌍 Website: [mikekellydev.com](https://mikekellydev.com)  
 - 💼 LinkedIn: [linkedin.com/in/mikekellydev](https://linkedin.com/in/mikekellydev)  
 - 📡 Ham Profile: [QRZ Lookup](https://www.qrz.com/) *(add your direct QRZ link if you'd like)*  
-*
+
