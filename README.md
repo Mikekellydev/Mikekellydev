@@ -48,7 +48,7 @@ Here are a few of my pinned repositories that showcase my skills and what I’m 
 
 ## 📡 About My Ham Radio Side
 
-Outside of tech, I’m a licensed **Ham Radio Operator** — call sign: **[Your Call Sign Here]**  
+Outside of tech, I’m a licensed **Ham Radio Operator** — call sign: WX9NWS 
 Whether tracking storms or supporting emergency communications, I enjoy combining technology with community service.
 
 - 📻 Skywarn Spotter  
@@ -63,9 +63,9 @@ I bring more than just technical knowledge — I bring commitment.
 ✅ I manage client projects like they're mission-critical.  
 ✅ I write clean code and secure infrastructure.  
 ✅ I value communication, documentation, and collaboration.  
-✅ I'm always learning — always shipping.
+✅ I'm always learning — always improving.
 
-> 💡 _“I believe in building things that last, serve others, and make an impact.”_
+> 💡 _“I believe in building things that last, serving others, and making an impact.”_
 
 ---
 
@@ -82,7 +82,7 @@ I bring more than just technical knowledge — I bring commitment.
 
 ## 📫 Let’s Connect
 
-- 🌍 Website: [mikekellydev.com](https://mikekellydev.com)  
+- 🌍 Website: [SparkWave IT Services](https://sparkwaveitservice.com)  
 - 💼 LinkedIn: [linkedin.com/in/michaeldavidkelly](https://www.linkedin.com/in/michaeldavidkelly/)  
 - 📡 Ham Profile: WX9NWS [QRZ Lookup](https://www.qrz.com/db/wx9nws) 
 
