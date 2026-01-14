@@ -2,8 +2,7 @@
 
 🚀 **Managed Cloud Service Provider** | 💻 **Web Developer** | 📡 **Ham Radio Enthusiast**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikekellydev&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikekellydev&show_icons=true&theme=default)
+
 
 ---
 
